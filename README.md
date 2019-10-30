@@ -1,3 +1,6 @@
+Aquest repositori és un "fork" del "fork" d'oriolpiera del repositori del Tsunami Democràtic.
+El faig per a lluitar contra la censura aplicada per GitHub al repositori original.
+
 # L'aplicació del Tsunami
 
 L'aplicació del Tsunami Democràtic és una plataforma de coordinació d'accions pacífiques de desobediència civil.
